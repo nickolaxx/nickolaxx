@@ -20,6 +20,8 @@
 Meu objetivo como <strong>desenvolvedor web </strong>é poder criar algo</strong> que possa <strong>ajudar todas as pessoas em seus cotidianos.</strong>
 </p>
 
+ <img src="https://thumbs.gfycat.com/CarelessColorfulEland.webp" >
+ 
 <p align="center">
   💼 Habilidades: <strong>C, HTML, GitHub, CSS, AdoubeXD.</strong>
 </p>
