@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1591793668/9336/baby-yoda.gif" width="80px" style="float:left; margin-top:-30px">Meu nome é Nickolas e sou estudante do curso de informatica no <strong>IFSP</strong>(Instituto Federal de Ciencia e tecnologia de São Paulo)<br> <strong>Estudante de Programação</strong> e atualmente me aprofundando mais em <strong>Front-end</strong>.<br />
+  <img src="https://emojis.slackmojis.com/emojis/images/1591793668/9336/baby-yoda.gif" width="80px" style="float:left; margin-top:-30px">Meu nome é Nickolas e sou estudante de Sistemas de informação na <strong>FIAP</strong>(<br> <strong>Estudante de Programação</strong> e atualmente me aprofundando mais em <strong>Front-end</strong>.<br />
 <strong>Tenho um grande sonho</strong> de me tornar um excelente <strong>Programador,</strong>
   e trabalhar mais na elaboração de <strong> projetos </strong> como <strong> startups </strong> e principalmente na área de desenvolvimento web.
 <br />
